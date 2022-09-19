@@ -2,7 +2,7 @@
 
 int main(void) {
 
-    // now main is emtpy
+    printf("Hello, world!\n");
 
     return 0;
 }
