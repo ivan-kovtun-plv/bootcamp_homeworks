@@ -7,3 +7,8 @@ int dev2_pow(int a, int n) {
     return tmp*a;
 }
 
+int dev2_add_1(int a) {
+    return a+1;
+}
+
+
